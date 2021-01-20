@@ -5,7 +5,9 @@ nav_order: 0
 parent:  "HC MID tutorial"
 ---
 
-## Installs
+# Technical prerequisites
+
+## Software to install
 
 - install git, and create an account on github
 - download and install [the julia language](https://julialang.org/downloads/) for your operating system
