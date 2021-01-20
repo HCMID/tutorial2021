@@ -1,5 +1,9 @@
 remote_theme: pmarsceill/just-the-docs
 title: "HC MID tutorial materials"
 
+aux_links:
+  "source on github":
+    - "https://github.com/HCMID/tutorial2021"
+
 
 footer_content: "Citable, verified, collaborative editing, backed by visual evidence."
