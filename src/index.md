@@ -9,7 +9,7 @@ has_children: true
 
 
 > # ⚠️ 
-> *Content on this site is work in progress; some material is still being moved over from the `README` for the model repository at [https://github.com/HCMID/validatormodel](https://github.com/HCMID/validatormodel).*
+> *Content on this site is work in progress; for a working model of a repository for HCMID editing, see [https://github.com/HCMID/validatormodel](https://github.com/HCMID/validatormodel).*
 
 ## Overview
 
