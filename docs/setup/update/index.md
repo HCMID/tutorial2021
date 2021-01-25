@@ -1,13 +1,15 @@
 ---
 title: "Updating your validation notebook"
 layout: page
-nav_order: 2
+nav_order: 3
 parent:  "Setting up a repository"
 grand_parent:  "HC MID tutorial"
 ---
 
 
 # How do I update my validation notebook?
+
+If your project's validating notebook is behind the current version available from [https://github.com/HCMID/validatormodel](https://github.com/HCMID/validatormodel), you should update your notebook.
 
 
 You can always find the current version of the MID validator notebook in [this github repository](https://github.com/HCMID/validatormodel).  If the version of the validation notebook in your repository does not match the version listed there, you should update your notebook.
