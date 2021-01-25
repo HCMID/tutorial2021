@@ -33,6 +33,6 @@ What makes scholarly editing at HC MID both distinctive and significant?  There 
 
 ## Getting started
 
-In the spring semester of 2021, we are introducing a new, simplified software stack for our editorial work.  The links below will show you how to [install the prerequisites on your computer](./prereqs/), and how your team can [set up an editorial repository](./setup).
+In the spring semester of 2021, we are introducing a new, simplified software stack for our editorial work.  The links below will show you how to [install the prerequisites on your computer](./prereqs/), and how your team can [set up an editorial repository](./setup).  Use the [reference section](./reference) to look up technical details about your project's configuration, or XML usage.
 
-If you've already done this, you can jump straight to [learning how to work on an MID project](./workflow/).
+If your project is already set up, you can jump straight to [learning how to work on an MID project](./workflow/).
