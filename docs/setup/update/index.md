@@ -3,7 +3,7 @@ title: "Updating your validation notebook"
 layout: page
 nav_order: 3
 parent:  "Setting up a repository"
-grand_parent:  "HC MID tutorial"
+grand_parent:  "HC MID handbook"
 ---
 
 

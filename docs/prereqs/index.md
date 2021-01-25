@@ -2,7 +2,7 @@
 title: "Technical prerequisites"
 layout: page
 nav_order: 0
-parent:  "HC MID tutorial"
+parent:  "HC MID handbook"
 ---
 
 # Technical prerequisites

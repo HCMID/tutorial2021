@@ -3,7 +3,7 @@ title: "Configuring markup schemes"
 layout: page
 nav_order: 1
 parent:  "Reference"
-grand_parent:  "HC MID tutorial"
+grand_parent:  "HC MID handbook"
 ---
 
 

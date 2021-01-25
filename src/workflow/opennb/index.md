@@ -3,7 +3,7 @@ title: "Start your validation notebook"
 layout: page
 nav_order: 2
 parent:  "Workflow"
-grand_parent:  "HC MID tutorial"
+grand_parent:  "HC MID handbook"
 ---
 
 

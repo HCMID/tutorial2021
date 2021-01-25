@@ -2,7 +2,7 @@
 title: "Reference"
 layout: page
 nav_order: 5
-parent:  "HC MID tutorial"
+parent:  "HC MID handbook"
 has_children:  true
 ---
 

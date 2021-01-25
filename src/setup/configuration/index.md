@@ -3,7 +3,7 @@ title: "Configuring texts for editing"
 layout: page
 nav_order: 2
 parent:  "Setting up a repository"
-grand_parent:  "HC MID tutorial"
+grand_parent:  "HC MID handbook"
 ---
 
 

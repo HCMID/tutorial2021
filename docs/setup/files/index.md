@@ -3,7 +3,7 @@ title: "File organization"
 layout: page
 nav_order: 1
 parent:  "Setting up a repository"
-grand_parent:  "HC MID tutorial"
+grand_parent:  "HC MID handbook"
 ---
 
 

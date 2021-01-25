@@ -3,7 +3,7 @@ title: "Configuring edition builders"
 layout: page
 nav_order: 2
 parent:  "Reference"
-grand_parent:  "HC MID tutorial"
+grand_parent:  "HC MID handbook"
 ---
 
 
