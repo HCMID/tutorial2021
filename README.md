@@ -1,4 +1,4 @@
-# Tutorial materials for HC MID
+# Handbook for HC MID projects in 2021
 
 This repository hosts the source material for the jekyll web site at <https://hcmid.github.io/tutorial2021/>.
 
