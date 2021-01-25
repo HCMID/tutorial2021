@@ -1,11 +1,11 @@
 ---
-title: "HC MID tutorial"
+title: "HC MID handbook"
 layout: page
 nav_order: 0
 has_children: true
 ---
 
-# Tutorial for MID projects in Spring, 2021
+# Handbook for HC MID projects in Spring, 2021
 
 
 > # ⚠️ 
