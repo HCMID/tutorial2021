@@ -22,10 +22,10 @@ If your text...
 
 | is in | and  | like | then use | 
 | --- | --- | --- | --- |
-| a Roman alphabet | uses only basic alphabetic, numeric and punctuation characters | original English translations of many documents | `SimpleAscii()`
+| a Roman alphabet | uses only basic alphabetic, numeric and punctuation characters | original English translations of many documents | `simpleAscii()`
 | Greek | uses standard literary orthography | the *Iliad*  |**TBA** |
 | Greek | includes additional symbols from *scholia* |  *scholia* to the *Iliad* | **TBA** |
 | Latin | distinguishes *u/v* and *i/j* | ? | **TBA** |
 | Latin | distinguishes *u/v* but not *i/j* | ? | **TBA** |
 | Latin | uses *u* and *i* for consonantal and vocalic values | HC edition of Hyginus, *Fabulae* | **TBA** |
-| Lycian | uses ASCII-based encoding | HC edition of *Tituli Lycii* | **TBA** |
+| Lycian | uses ASCII-based encoding | HC edition of *Tituli Lycii* | `lycianAscii()` |
